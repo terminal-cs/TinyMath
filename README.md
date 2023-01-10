@@ -23,4 +23,4 @@ And, the result should be returned as a double number! You can store it in a dou
 
 All types of contributions are welcome! Feel free to open issues or submit pull requests!
 
-TinyMath is licensed under the GPL V2 licence.
+TinyMath is licensed under the [GPL V2](https://github.com/terminal-cs/TinyMath/blob/master/LICENSE) licence.
