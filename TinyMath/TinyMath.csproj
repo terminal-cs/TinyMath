@@ -15,6 +15,8 @@
     <RepositoryUrl>github.com/terminal-cs/TinyMath</RepositoryUrl>
     <PackageTags>math;expressions;expression solver;math solver;string math</PackageTags>
     <RunAnalyzersDuringBuild>True</RunAnalyzersDuringBuild>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageLicenseExpression>GPL-2.0-only</PackageLicenseExpression>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
