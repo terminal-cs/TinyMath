@@ -13,7 +13,7 @@ using TinyMath;
 ```
 To solve an expression, type the following:
 ```cs
-string ExampleExpression = "2 + 6 / 5 ^ 2 * 8";
+string ExampleExpression = "2 + 6 / 5 ^ 2 * 7";
 SyntaxParser.Evaluate(ExampleExpression);
 ```
 > (Note here, it is assumed you followed the previous step, which is including it into the file.)
